@@ -4,6 +4,7 @@ int main(){
 	printf("Hello, world\n");
 	printf("...and Mars\n");
 	printf("...and Jupiter\n");
+	printf("...and the moon!!!\n");
 	
 	if (1 > 0){
 		return 1;
