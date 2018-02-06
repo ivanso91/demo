@@ -5,8 +5,9 @@ int main(){
 	printf("...and Mars\n");
 	printf("...and Jupiter\n");
 	printf("...and the moon!!!\n");
+	printf("...and Saturn\n");
 
-	while (1)
+	while (0)
 	{
 		printf("ikke noe linjeskift?????!!!!");
 	}
